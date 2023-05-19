@@ -8,6 +8,6 @@
 
 <div align="center">
   <a href="https://github.com/victormattos564">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victormattos564&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" style="margin-right: 2em" />
+  <img height="180em" src=https://camo.githubusercontent.com/0086717bb8eeddd…33d7472756526636f756e745f707269766174653d74727565/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormattos564&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
