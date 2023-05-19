@@ -4,9 +4,6 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/49580304/110319833-47367180-7fc4-11eb-87a7-392509eca9d7.gif" alt="Bt">
-
-  [![iam.mattosz's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=victormattos564&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/victormattos564)
-<br>
   
 <p align="center">
   <img src="https://media.tenor.com/fhWl5LL9HWIAAAAi/hacker-find-the-hackers.gif" alt="Bt">
