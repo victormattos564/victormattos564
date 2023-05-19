@@ -8,7 +8,8 @@
   [![iam.mattosz's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=victormattos564&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/victormattos564)
 <br>
   
-<p align="center2">
-  <img src="https://media.tenor.com/fhWl5LL9HWIAAAAi/hacker-find-the-hackers.gif" alt="Bt"
+<p align="center">
+  <img src="https://media.tenor.com/fhWl5LL9HWIAAAAi/hacker-find-the-hackers.gif" alt="Bt">
+       
   [![victormattos564](https://github-readme-stats.vercel.app/api?username=victormattos564&show_icons=true&theme=dark)](https://github.com/victormattos564)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormattos564&layout=compact&langs_count=7&theme=great-gatsby"/>
