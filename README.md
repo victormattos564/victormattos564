@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/49580304/110319833-47367180-7fc4-11eb-87a7-392509eca9d7.gif" alt="Bt">
   
 <p align="center">
-  <img src="https://media.tenor.com/fhWl5LL9HWIAAAAi/hacker-find-the-hackers.gif" alt="Bt">
+  <img src="https://c4.wallpaperflare.com/wallpaper/371/264/21/itzmauuuroo-hackers-anonymous-hd-wallpaper-preview.jpg" alt="Bt">
        
   [![victormattos564](https://github-readme-stats.vercel.app/api?username=victormattos564&show_icons=true&theme=dark)](https://github.com/victormattos564)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormattos564&layout=compact&langs_count=7&theme=great-gatsby"/>
