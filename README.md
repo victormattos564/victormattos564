@@ -7,7 +7,7 @@
 
   [![iam.mattosz's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=victormattos564&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/victormattos564)
 <br>
-  <img height="120em" src="https://camo.githubusercontent.com/6c40b7140ee8cfada916d1f29cb894515b57a607a89983df7a9c6f47301d5a69/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d66656c69706563617374726f73616c65732673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d6461726b266c696e655f6865696768743d31" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=victormattos564&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=dark&amp;line_height=1" style="max-width: 100%;">
+  
 <p align="center 2">
   <img src="https://media.tenor.com/fhWl5LL9HWIAAAAi/hacker-find-the-hackers.gif" alt="Bt"
   [![victormattos564](https://github-readme-stats.vercel.app/api?username=victormattos564&show_icons=true&theme=dark)](https://github.com/victormattos564)
