@@ -3,7 +3,7 @@
 [![FRASE](https://readme-typing-svg.herokuapp.com?font=&color=%2331F7EA&center=true&lines=BEM-VINDO+AO+MEU+GITHUB;OLÁ%2Ceu+sou+iam.mattosz;PROGRAMADOR;OBRIGADO+POR+VISITAR+MEU+GITHUB)](https://git.io/typing-svg) <br>
 
 <p align="center">
-  <img src="https://i.kym-cdn.com/photos/images/original/001/742/441/847.jpg"alt="Bt" width="500px">
+  <img src="https://i.kym-cdn.com/photos/images/original/001/742/441/847.jpg"alt="Bt" width="350px">
   
 <p align="center">
   <img src="https://user-images.githubusercontent.com/49580304/110319833-47367180-7fc4-11eb-87a7-392509eca9d7.gif" alt="Bt"> 
