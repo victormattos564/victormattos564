@@ -4,6 +4,6 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/49580304/110319833-47367180-7fc4-11eb-87a7-392509eca9d7.gif" alt="Bt">
-# Minhas estatisticas
+
   [![victormattos564](https://github-readme-stats.vercel.app/api?username=victormattos564&show_icons=true&theme=dark)](https://github.com/victormattos564)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormattos564&layout=compact&langs_count=7&theme=great-gatsby"/>
