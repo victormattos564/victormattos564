@@ -4,4 +4,4 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=victormattos564)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=victormattos564&theme=dark&border_radius=100)](https://git.io/streak-stats)
