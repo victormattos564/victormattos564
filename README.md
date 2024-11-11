@@ -7,4 +7,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=victormattos564&theme=dark&border_radius=100)](https://git.io/streak-stats)
 
 
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=victormattos564&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/victormattos564/github-readme-stats#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormattos564&hide_progress=true)
