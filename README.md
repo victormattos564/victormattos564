@@ -4,7 +4,6 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=victormattos564&theme=dark&border_radius=100)](https://git.io/streak-stats)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormattos564&hide_progress=true)
@@ -12,4 +11,3 @@
 
 
 
-https://portifolio-victor-mattos.vercel.app/
