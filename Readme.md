@@ -6,27 +6,26 @@
 
 ## Tecnologias que eu uso
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+<img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=white&size=50" alt="Java">
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white&size=50" alt="Python">
+<img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&logoColor=white&size=50" alt="C++">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow&size=50" alt="JavaScript">
+<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=orange&size=50" alt="HTML5">
+<img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue&size=50" alt="CSS3">
+<img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoColor=green&size=50" alt="Node.js">
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=red&size=50" alt="Git">
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=blue&size=50" alt="MySQL">
 
 ---
 
 ## Status do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormattos564&hide_progress=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormattos564&exclude_repo=github-readme-stats,victormattos564.github.io)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victormattos564&show_icons=true&count_private=true&hide_title=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormattos564&hide_progress=true&theme=dark)
 
 ---
 
 ## Contato
 
-- Email: victorhugo@example.com
-- LinkedIn: [Victor Hugo](https://www.linkedin.com/in/victor-hugo)
-- Twitter: [@victormattos564](https://twitter.com/victormattos564)
+- **Email**: [victorhmmaria@gmail.com](mailto:victorhmmaria@gmail.com)
+- **Telefone**: +55 19 99279-8617
