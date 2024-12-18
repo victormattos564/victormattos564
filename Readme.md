@@ -24,8 +24,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormattos564&hide_progress=true&theme=dark)
 
 ---
-
-## Contato
-
-- **Email**: [victorhmmaria@gmail.com](mailto:victorhmmaria@gmail.com)
-- **Telefone**: +55 19 99279-8617
