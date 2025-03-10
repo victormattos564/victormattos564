@@ -1,6 +1,6 @@
 # Olá, sou o Victor!  <a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="50px"></a>
 
-[![FRASE](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=%2331F7EA&center=true&vCenter=true&width=435&lines=BEM-VINDO+AO+MEU+GITHUB;OL%C3%81%2C+Me+chamo+Victor+Hugo;PROGRAMADOR+MEDIANO+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;CURSANDO+ENGENHARIA+DE+SOFTWARE;VALEU+POR+VISITAR+MEU+GITHUB+%F0%9F%91%8D)](https://git.io/typing-svg)
+[![FRASE](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=%2331F7EA&center=true&vCenter=true&width=435&lines=BEM-VINDO+AO+MEU+GITHUB;OL%C3%81%2C+Me+chamo+Victor+Hugo;DESENVOLVEDOR+JUNIOR+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;CURSANDO+ENGENHARIA+DE+SOFTWARE;VALEU+POR+VISITAR+MEU+GITHUB+%F0%9F%91%8D)](https://git.io/typing-svg)
 
 ---
 ## 🏠 Meu Site
@@ -28,5 +28,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormattos564&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### ✨ Obrigado por visitar meu perfil! Conecte-se comigo e vamos construir algo incrível juntos! 🚀
+
 
