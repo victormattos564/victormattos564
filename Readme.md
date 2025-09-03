@@ -3,10 +3,12 @@
 [![FRASE](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=%2331F7EA&center=true&vCenter=true&width=435&lines=BEM-VINDO+AO+MEU+GITHUB;OLÁ%2C+Me+chamo+Victor+Hugo;DEVELOPER+PLENO+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;CURSANDO+ENGENHARIA+DE+SOFTWARE;VALEU+POR+VISITAR+MEU+GITHUB+%F0%9F%91%8D)](https://git.io/typing-svg)
 
 ---
+
 ## 🏠 Meu Site
-[![Website](https://img.shields.io/badge/Portf%C3%B3lio-victor--mattos.netlify.app-blue?style=for-the-badge&logo=google-chrome)](https://victor-mattos.netlify.app)
+[![Website](https://img.shields.io/badge/Portfólio-victormattos564--port--7v47.bolt.host-blue?style=for-the-badge&logo=google-chrome)](https://victormattos564-port-7v47.bolt.host)
 
 ---
+
 ## ⚙️ Tecnologias que eu uso
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,12 +33,9 @@
 - Engenharia de Software  
 - Automação e Scripts  
 
-
 ---
+
 ## 📊 Status do GitHub
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victormattos564&show_icons=true&count_private=true&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormattos564&langs_count=20&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
