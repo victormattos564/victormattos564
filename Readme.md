@@ -1,5 +1,5 @@
 <p align="center">
-  <b>💻 Hacker Ético | Dev Pleno | Software Engineer 💻</b><br>
+  <b>💻 Hacker Ético | Dev Junior | Software Engineer 💻</b><br>
   <i>"A mente de um hacker não vê barreiras, vê oportunidades."</i>
 </p>
 
