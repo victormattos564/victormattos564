@@ -14,7 +14,7 @@
 
 ---
 
-## ⚙️ STACK PRINCIPAL
+## ⚙️ SKILLS
 
 <div align="center">
 
