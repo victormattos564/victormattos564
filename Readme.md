@@ -1,9 +1,9 @@
 <p align="center">
-  <b>💻 Hacker Ético | Dev Junior | Software Engineer 💻</b><br>
+  <b>💻 Hacker Ético | Dev FullStack | Software Engineer 💻</b><br>
   <i>"A mente de um hacker não vê barreiras, vê oportunidades."</i>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFE1&center=true&vCenter=true&width=500&lines=BEM-VINDO+AO+MEU+GITHUB;OLÁ%2C+Me+chamo+Victor+Hugo;DEVELOPER+JUNIOR+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;HACKER+ÉTICO🛡️;CURSANDO+ENGENHARIA+DE+SOFTWARE;VALEU+POR+VISITAR+MEU+GITHUB+%F0%9F%91%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFE1&center=true&vCenter=true&width=500&lines=BEM-VINDO+AO+MEU+GITHUB;OLÁ%2C+Me+chamo+Victor+Hugo;DEVELOPER+FULLSTACK+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;HACKER+ÉTICO🛡️;CURSANDO+ENGENHARIA+DE+SOFTWARE;VALEU+POR+VISITAR+MEU+GITHUB+%F0%9F%91%8D)](https://git.io/typing-svg)
 
 
 ---
