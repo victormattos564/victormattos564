@@ -53,18 +53,6 @@
 
 ---
 
-## 📊 STATUS GITHUB
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victormattos564&show_icons=true&count_private=true&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormattos564&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
 ## 🧾 Filosofia & Regras
 
 > Código é poder. E poder sem ética vira caos corporativo.
